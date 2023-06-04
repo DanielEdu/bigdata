@@ -51,3 +51,6 @@ Switch branches
 
 Create + switch
 `git checkout -b <branch_name>`
+
+Integrate changes from one branch into another branch
+`git merge <branch>`
