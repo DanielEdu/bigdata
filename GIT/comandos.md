@@ -37,3 +37,17 @@ Create a new commit
 
 Show a list of commits in reverse chronological order
 `git log`
+
+## Branches
+
+List the branches
+`git branch`
+
+Create a branch
+`git branch <new_branch_name>`
+
+Switch branches
+`git switch <branch_name>`
+
+Create + switch
+`git checkout -b <branch_name>`
