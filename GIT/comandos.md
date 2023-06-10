@@ -54,3 +54,11 @@ Create + switch
 
 Integrate changes from one branch into another branch
 `git merge <branch>`
+
+## GIT Remote
+
+add a git remote
+`git remote add origin <url>`
+
+list repositorie remote 
+`git remote --v`
