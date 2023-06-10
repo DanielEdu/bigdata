@@ -55,10 +55,16 @@ Create + switch
 Integrate changes from one branch into another branch
 `git merge <branch>`
 
-## GIT Remote
+## Clone a Git remote repository
 
-add a git remote
-`git remote add origin <url>`
+Clonar un repositorio remoto
+`git clone <git https | ssh>`
 
-list repositorie remote 
-`git remote --v`
+listar repositorios remotos
+`git remote -v`
+
+Jalar cambios desde el repositorio remoto
+`git pull origin <branch_name>`
+
+Enviar mis cambios al repositorio remoto
+`git push origin <branch_name>`
