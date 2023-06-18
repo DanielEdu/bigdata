@@ -1,0 +1,23 @@
+{"bookstore": {
+    "book": [
+      {
+        "category": "fiction",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925
+      },
+      {
+        "category": "fiction",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960
+      },
+      {
+        "category": "nonfiction",
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "year": 2014
+      }
+    ]
+  }
+}
